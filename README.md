@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nohasin</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohasin</h1></summary>
   </ul>
 </div>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=anubhavtripathi0509&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohasindawal&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
