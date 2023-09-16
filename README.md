@@ -12,11 +12,13 @@
   <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw3FL5M7p8pUg-Ym1QMByshT&ust=1694962400903000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiL2uW-r4EDFQAAAAAdAAAAABAE)"  /></a>
 </div>
 
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Eat, Sleep, Code, Repeat</h2></summary>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=My+name+is+Mohasin+Jawale" alt="Typing SVG" /></a>
   </ul>
 </div>
+
 
 - 🧑‍🎓 I'm currently a **3rd year engineering student.**
 
@@ -71,16 +73,15 @@
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
 </p>
 
 ### Web Development
 <p>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- 
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
 
 </p>
 
@@ -91,6 +92,12 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+### Styling & Frameworks
+<p>
+   
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ### Version Control
 
