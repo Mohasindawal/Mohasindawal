@@ -64,7 +64,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">👨🏻‍💻Technologies I Know <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻Technologies I Know <img style="display: inline-block" src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="50"> </h2></summary>
   </ul>
 </div>
 
@@ -132,7 +132,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohasin-jawale-403931215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://instagram.com/_mohsin_jawale/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50"></a>
+    <a href="https://instagram.com/_mohsin_jawale/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50"></a>
   
 </p>
 
