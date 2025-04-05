@@ -24,7 +24,7 @@
 </div>
 
 
-- 🧑‍🎓 I'm currently a **3rd year engineering student.**
+- 🧑‍🎓 I'm currently a **4th year engineering student.**
 
 - 🌱 Currently learning **MERN Stack Development**
 
