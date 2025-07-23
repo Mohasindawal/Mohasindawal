@@ -1,4 +1,4 @@
-/*
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1500">
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
@@ -11,7 +11,7 @@
   <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw3FL5M7p8pUg-Ym1QMByshT&ust=1694962400903000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiL2uW-r4EDFQAAAAAdAAAAABAE)"  /></a>
 </div>
 
-*/
+
 
 <div id="user-content-toc">
   <ul align="center">
