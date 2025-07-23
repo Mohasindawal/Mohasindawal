@@ -20,9 +20,9 @@
 </div>
 
 
-- 🧑‍🎓 I'm currently a **4th year engineering student.**
+- 🧑‍🎓 I'm a **Computer Engineering Grad**
 
-- 🌱 Currently learning **MERN Stack Development**
+- 🌱 Currently learning *Learning React**
 
 - 💬 Ask me about **Frontend Development**
 
