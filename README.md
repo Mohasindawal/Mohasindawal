@@ -22,7 +22,7 @@
 
 - 🧑‍🎓 I'm a **Computer Engineering Grad**
 
-- 🌱 Currently learning *Learning React**
+- 🌱 Currently learning **Learning React**
 
 - 💬 Ask me about **Frontend Development**
 
